@@ -1,0 +1,10 @@
+# silly macOS
+.DS_Store
+
+# build files
+build/
+
+term2_sim_linux/
+install-mac.sh
+install-ubuntu.sh
+
